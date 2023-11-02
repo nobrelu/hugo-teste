@@ -16,18 +16,7 @@ module:
     target: static/files
   - source: ./node_modules/katex/dist/fonts
     target: static/fonts
-  - source: content
-    target: content
-  - source: static
-    target: static
-  - source: data
-    target: data
-  - source: assets
-    target: assets
-  - source: i18n
-    target: i18n
-  - source: archetypes
-    target: archetypes
+
  
 
 # Manage languages
