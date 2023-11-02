@@ -23,6 +23,7 @@ languages:
   en:
     languageName: English
     weight: 3
+    disabled: true
   bn:
     languageName:  Bn
     weight: 2
