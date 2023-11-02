@@ -1,6 +1,6 @@
 baseURL: https://nobrelu.github.io
 
-languageCode: pt-br
+
 title: "Data Vinci"
 
 # Use Hugo modules to add theme
@@ -20,10 +20,10 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageName: English
-    weight: 3
-    disabled: true
+  #en:
+  #  languageName: English
+  #  weight: 3
+  #  disabled: true
   bn:
     languageName:  Bn
     weight: 2
