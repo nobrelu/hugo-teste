@@ -32,10 +32,10 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  #en:
-  #  languageName: English
-  #  weight: 3
-  #  disabled: true
+  en:
+    languageName: English
+    weight: 3
+    disabled: true
   bn:
     languageName:  Bn
     weight: 2
@@ -49,7 +49,7 @@ languages:
     
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-DefaultContentLanguage: pt-br
+DefaultContentLanguage: en
 
 # Allow raw html in markdown file
 markup:
