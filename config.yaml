@@ -20,8 +20,6 @@ module:
     target: content
   - source: static
     target: static
-  - source: layouts
-    target: layouts
   - source: data
     target: data
   - source: assets
