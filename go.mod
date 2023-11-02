@@ -2,4 +2,6 @@ module github.com/nobrelu/hugo-teste
 
 go 1.23
 
-require github.com/hugo-toha/toha/v4 v4.0.0-20231031154330-017ab6262a97 // indirect
+require github.com/hugo-toha/hugo-toha.github.io v0.0.0-20221228191121-007f31838bd6 // indirect
+
+replace github.com/hugo-toha/toha/v4 => ../../toha
