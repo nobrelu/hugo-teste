@@ -1,4 +1,4 @@
-baseURL: https://nobrelu.github.io/hugo-teste/
+baseURL: https://nobrelu.github.io
 
 languageCode: en-us
 title: "Data Vinci"
@@ -72,7 +72,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/nobrelu/hugo-teste/
+  gitRepo: https://github.com/nobrelu/hugo-teste
   # Default branch of your Git repo
   gitBranch: main
 
